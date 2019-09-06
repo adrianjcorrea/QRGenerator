@@ -1,0 +1,15 @@
+C:\Users\jcorrea\source\repos\QRCodeApp\QRCodeApp\bin\Debug\QRCodeApp.exe.config
+C:\Users\jcorrea\source\repos\QRCodeApp\QRCodeApp\bin\Debug\QRCodeApp.exe
+C:\Users\jcorrea\source\repos\QRCodeApp\QRCodeApp\bin\Debug\QRCodeApp.pdb
+C:\Users\jcorrea\source\repos\QRCodeApp\QRCodeApp\bin\Debug\QRCodeApp.xml
+C:\Users\jcorrea\source\repos\QRCodeApp\QRCodeApp\bin\Debug\QRCoder.dll
+C:\Users\jcorrea\source\repos\QRCodeApp\QRCodeApp\bin\Debug\System.Drawing.Common.dll
+C:\Users\jcorrea\source\repos\QRCodeApp\QRCodeApp\obj\Debug\QRCodeApp.vbprojAssemblyReference.cache
+C:\Users\jcorrea\source\repos\QRCodeApp\QRCodeApp\obj\Debug\QRCodeApp.Form1.resources
+C:\Users\jcorrea\source\repos\QRCodeApp\QRCodeApp\obj\Debug\QRCodeApp.Resources.resources
+C:\Users\jcorrea\source\repos\QRCodeApp\QRCodeApp\obj\Debug\QRCodeApp.vbproj.GenerateResource.cache
+C:\Users\jcorrea\source\repos\QRCodeApp\QRCodeApp\obj\Debug\QRCodeApp.vbproj.CoreCompileInputs.cache
+C:\Users\jcorrea\source\repos\QRCodeApp\QRCodeApp\obj\Debug\QRCodeApp.vbproj.CopyComplete
+C:\Users\jcorrea\source\repos\QRCodeApp\QRCodeApp\obj\Debug\QRCodeApp.exe
+C:\Users\jcorrea\source\repos\QRCodeApp\QRCodeApp\obj\Debug\QRCodeApp.xml
+C:\Users\jcorrea\source\repos\QRCodeApp\QRCodeApp\obj\Debug\QRCodeApp.pdb
